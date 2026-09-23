@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jbrunnerhtl.github.io/personal-website2.0/">🌐 Personal Website</a>
+  <a href="https://jbrunnerhtl.github.io/personal-wesite3.0/en/">🌐 Personal Website</a>
 </p>
 
 ---
