@@ -66,7 +66,7 @@ More projects on my [portfolio](https://jbrunnerhtl.github.io/en/).
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JBrunnerhtl&theme=tokyo-night&hide_border=true&area=true&color=2196F3&line=2196F3&point=ffffff" alt="Contribution graph" width="100%" />
+  <img src="https://ghchart.rshah.org/2196F3/JBrunnerhtl" alt="Contribution chart" width="100%" />
 </p>
 
 <p align="center">
